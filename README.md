@@ -1,4 +1,4 @@
-# Crypto Market Pulse Dashboard
+### Crypto Market Pulse Dashboard
 
 A live data pipeline that pulls 1000 cryptocurrencies from the 
 CoinMarketCap API, stores them in a SQL Server data warehouse, 
@@ -45,6 +45,8 @@ Star schema with:
 ## Notes
 Pipeline is triggered manually by running `run_pipeline.py`.
 API key is stored securely in a `.env` file and never committed to GitHub.
+### Liscense
+This project is liscense under the MIT liscense . you are free to use,modify, and share this project with proper attribute
 
-## Author
-Your Name — Data Analyst
+## About me
+Hi there! I'm Bosu Richmond Joe also known as Excel Huntch I'm a geography students and passionate about learning and working with data(Data analytics)
